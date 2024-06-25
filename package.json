@@ -26,7 +26,7 @@
     "depd": "^2.0.0",
     "escape-string-regexp": "^2.0.0",
     "eventemitter2": "^5.0.1",
-    "express": "4.19.2",
+    "express": "4.x",
     "inflection": "^1.7.1",
     "jayson": "^2.0.5",
     "js2xmlparser": "^3.0.0",
